@@ -2,9 +2,7 @@
 An intelligent and interactive medical image-based diagnostic tool built with **Python**, **Streamlit**, **Keras**, and **Google Teachable Machine**. This prototype is capable of identifying signs of Pneumonia and multiple eye-related diseases from X-ray and retinal images respectively. It serves as an early detection assistant by combining fast image classification with an intuitive GUI.
 
 ---
-
 ## 🩺 Features
-
 * Upload and analyze medical images (X-ray images or Eye Retina scans)
 * Predict conditions such as:
   * Pneumonia (from chest X-rays)
@@ -12,7 +10,6 @@ An intelligent and interactive medical image-based diagnostic tool built with **
 * Uses pre-trained image classification models triained from medical datasets via Google Teachable Machine.
 * Runs entirely on the web via Streamlit with no heavy computation required on User-end
 * Responsive interface with diagnosis feedback and probability
-
 ---
 
 ## 🧠 How It Works
@@ -21,10 +18,8 @@ An intelligent and interactive medical image-based diagnostic tool built with **
 * Medical datasets sourced from **Mendeley Data**
 * Labeled data split into training, validation, and test sets
 * Model trained using Google Teachable Machine
-
   * No-code model training platform
   * Output: downloadable `.h5`/TensorFlow Lite model or web exportable model
-
 ---
 
 ### 2. **Image Upload & Preprocessing**
