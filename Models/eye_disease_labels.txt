@@ -1,0 +1,10 @@
+0 Central Serous Chorioretinopathy
+1 Diabetic Retinopathy
+2 Disc Edema
+3 Glaucoma
+4 Healthy
+5 Macular Scar
+6 Myopia
+7 Pterygium
+8 Retinal Detachment
+9 Retinitis Pigmentosa
